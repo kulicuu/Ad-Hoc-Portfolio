@@ -44,7 +44,7 @@ Not maintained. Six years old. A MineSweeper implementation I did with pure SVG 
 
 #### "Engineering Critical Network Applications:"
 
-[https://terebinth.is/pdf/CriticalSystems2001.pdf]("Engineering Critical Network Applications:")
+https://terebinth.is/pdf/CriticalSystems2001.pdf
 
 Draft-quality.
 This paper criticises typical industry dev-ops and testing practices, including the pyramid of testing paradigm associated iirc with Martin Fowler.  Proposes a new interpretation of TestDrivenDevelopment(TDD) that aims to build the 'failing-test' for the entire application instead of relying on suites of unit-tests.  The macro-level test can be typically be implemented as a bot-net attacking the candidate system.  Bot-Net in this context is synonymous with network-simulation.  There is some detailed discussion of implications in the infrastructure, such as that the bots are 90% code-identical with network clients(producers also, though initially in this paradigm we think of the producers as the candidate system, already represented.  Of course full generalization merges all into network nodes of varying properties.)
