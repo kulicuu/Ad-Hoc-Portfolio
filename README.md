@@ -57,6 +57,7 @@ Not computer-science relevant except maybe in the network-warfare facet of the m
 
 ### Some stuff that remains on GitHub Gist
 #### "Foundations of Discourse."
+[https://gist.github.com/kulicuu/98131e9569f74bc8fc81f5cc42eb4c97](https://gist.github.com/kulicuu/98131e9569f74bc8fc81f5cc42eb4c97)
 Super rough-draft quality:
 Pompous title but that is the motivation -- to grasp essentially and generally: "rigor", in sciences, arts, philosophy; discourse in any of these.  In engineering we're mostly interested in scientific rigour.  It's a poorly written draft I need to edit and rewrite somewhat. Neglected, but has some good content.
 
